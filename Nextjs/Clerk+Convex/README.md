@@ -1,7 +1,3 @@
-Here’s a version of the `README.md` with your provided images integrated. I have used placeholders for image references, so replace them with appropriate paths as necessary:
-
----
-
 # Clerk + Convex Integration Guide
 
 This guide walks you through setting up authentication using [Clerk](https://clerk.dev) and integrating it with [Convex](https://convex.dev) for backend functionalities.
