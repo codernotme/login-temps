@@ -51,13 +51,6 @@ Follow instructions in each template’s `README.md` for detailed setup.
 
 ---
 
-<!---## 🎨 **Screenshots & Previews**  
-
-### Next.js Login Template  
-<img src="https://media.giphy.com/media/3orieYI0vbpzVTTz4k/giphy.gif" alt="Next.js Template Preview" width="80%">
--->
-
-
 ## 🛠️ **Contributing**
 
 We ❤️ contributions!  
